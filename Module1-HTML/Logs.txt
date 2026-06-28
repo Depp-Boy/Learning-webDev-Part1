@@ -1,0 +1,15 @@
+So in this module they are teaching the basics of HTML
+
+First, they started with the HTML history of how it start in the 1990s
+Now, the current version of HTML being used is called HTML5.
+
+Second, they describe the differences between HTML and XML and how both
+the languages are very similar.
+But, XML seems harder because of the following:
+- XML is case-sensitive (everything in Lower-case)
+    while HTML is case-insensitive
+and several more differences
+
+Third, they introduce us to a website application called JSFiddle
+where we can type HTML, CSS and JS codes and see them execute in real-time
+without the need of saving any file. (Basically an online compiler)
