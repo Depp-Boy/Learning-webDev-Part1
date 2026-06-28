@@ -13,3 +13,5 @@ and several more differences
 Third, they introduce us to a website application called JSFiddle
 where we can type HTML, CSS and JS codes and see them execute in real-time
 without the need of saving any file. (Basically an online compiler)
+The link to it is: https://jsfiddle.net/u7oxzgmj/13/
+
